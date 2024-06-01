@@ -35,7 +35,7 @@ Alternatively, you can run the app from the command line:
     5. The author shall not be liable for any damages or losses arising from the use or inability to use the application.
 
 ### Contact
-Author: Abhijeet Rajhans
-    Developed By: Abhijeet Rajhans
-    Github: https://github.com/abhijeetrajhansgithub
-    Linkedin: https://www.linkedin.com/in/abhijeetrajhans/
+    * Author: Abhijeet Rajhans
+    * Developed By: Abhijeet Rajhans
+    * Github: https://github.com/abhijeetrajhansgithub
+    * Linkedin: https://www.linkedin.com/in/abhijeetrajhans/
