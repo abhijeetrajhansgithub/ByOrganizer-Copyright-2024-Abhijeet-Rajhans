@@ -92,8 +92,8 @@ If WinRAR is not recognized as an internal or external command, you need to add 
 ## Running the Application
 Once the extraction process is complete, navigate to the `extracted_files` directory and run the main executable of your PyQt5 application.
 
-===================================================================================================
-===================================================================================================
+============================================
+============================================
 
 ### License
     This application is proprietary software and is protected by copyright law. Your use of this software is subject to the terms of the proprietary license agreement provided with the software.
