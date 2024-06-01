@@ -8,6 +8,7 @@ Before you begin, ensure you have the following installed on your system:
 
 * Python 3.x: Download Python
 * PyQt5: Install using pip: `pip install pyqt5`
+* WinRAR: Download and install WinRAR from the official website: https://www.rarlab.com/download.htm
 
 # Installation Steps
 Follow these steps to install and run the app:
