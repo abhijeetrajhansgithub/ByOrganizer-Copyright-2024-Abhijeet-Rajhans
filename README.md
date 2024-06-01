@@ -53,3 +53,6 @@ If your app's installer is split into multiple volumes, follow these steps to ex
     * Developed By: Abhijeet Rajhans
     * Github: https://github.com/abhijeetrajhansgithub
     * Linkedin: https://www.linkedin.com/in/abhijeetrajhans/
+
+# **Copyright © 2024 Abhijeet Rajhans**
+
