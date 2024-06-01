@@ -27,6 +27,7 @@ Alternatively, you can run the app from the command line:
 `python ByOrganizer.py`
 
 ### License
+    **This application is proprietary software and is protected by copyright law. Your use of this software is subject to the terms of the proprietary license agreement provided with the software.**
     1. You are granted a non-exclusive, non-transferable license to use this application for personal or commercial purposes, subject to the terms of the proprietary license agreement.
     2. Redistribution or modification of the application is strictly prohibited without prior written consent from the author.
     3. You agree not to distribute the application illegally or without this complete section of the about clause.
