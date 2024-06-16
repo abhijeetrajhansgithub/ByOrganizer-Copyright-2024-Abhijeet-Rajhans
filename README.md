@@ -1,4 +1,7 @@
 # ByOrganizer-Copyright-2024-Abhijeet-Rajhans
+
+A deployable Windows application that organizes files within a specified directory by creating subfolders and sorting the files into their respective categories, resulting in a cleaner and more structured folder.
+
 This application is meticulously crafted to deliver a contemporary and user-friendly interface, catering to a diverse range of tasks. Developed with Python and PyQt5, it boasts a sophisticated architecture that ensures seamless performance and intuitive user interaction.
 
 This README file will guide you through the installation process on Windows.
